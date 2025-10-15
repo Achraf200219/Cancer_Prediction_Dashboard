@@ -7,7 +7,7 @@ A web application for breast cancer risk prediction using FastAPI backend with m
 Backend: Python 3.8+, FastAPI, Scikit-learn, Pandas, NumPy, Uvicorn
 Frontend: React 18, Vite, TailwindCSS, Axios
 
-## Quick Start
+## How to Start
 
 Backend: Navigate to `backend/`, create a virtual environment, install dependencies with `pip install -r requirements.txt`, and run `uvicorn main:app --reload --host 0.0.0.0 --port 8000`. Frontend: Navigate to `frontend/`, run `npm install`, then `npm run dev`. Access the application at http://localhost:5173 and API documentation at http://localhost:8000/docs.
 
